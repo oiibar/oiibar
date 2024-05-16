@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/oiibar/CS_Timer](https://github.com/oiibar/CS_Timer)
+- 👨‍💻 All of my projects are available at [https://github.com/oiibar/CS_Timer](https://github.com/oiibar)
 
 - 💬 Ask me about **Frontend**
 
