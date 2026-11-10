@@ -108,13 +108,13 @@ Sep 2024 – May 2027 · GPA 3.4
 ## Curriculum Vitae
 
 <p align="center">
-  <a href="cvs/CV.pdf">
-    <img src="cvs/CV.png" alt="Aibar Tolegenov — CV (click to open PDF)" width="720" />
+  <a href="CV.pdf">
+    <img src="CV.png" alt="Aibar Tolegenov — CV (click to open PDF)" width="720" />
   </a>
 </p>
 
 <p align="center">
-  <a href="cvs/CV.pdf"><b>Open full CV (PDF)</b></a>
+  <a href="CV.pdf"><b>Open full CV (PDF)</b></a>
 </p>
 
 ---
