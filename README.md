@@ -5,8 +5,9 @@
   <a href="https://github.com/oiibar"><img src="https://img.shields.io/badge/GitHub-oiibar-181717?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:quovein@gmail.com"><img src="https://img.shields.io/badge/Email-quovein%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/oiiibar"><img src="https://img.shields.io/badge/Telegram-%40oiiibar-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="https://www.linkedin.com/in/aibar-tolegenov-167a962a3/"><img src="https://img.shields.io/badge/LinkedIn-Aibar%20Tolegenov-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://leetcode.com/oiibar"><img src="https://img.shields.io/badge/LeetCode-oiibar-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-  <a href="cvs/CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-4B0082?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
+  <a href="CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-4B0082?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
 </p>
 
 <p align="center">
@@ -122,8 +123,14 @@ Sep 2024 – May 2027 · GPA 3.4
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oiibar&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oiibar&layout=compact&hide_border=true&theme=default" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oiibar&theme=default" alt="GitHub profile details" width="100%" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oiibar&theme=default" alt="Top languages by repository" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oiibar&theme=default" alt="Top languages by commit" height="180" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=oiibar&hide_border=true" alt="GitHub streak" height="180" />
 </p>
 
 ---
