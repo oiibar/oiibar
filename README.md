@@ -6,7 +6,7 @@
   <a href="mailto:quovein@gmail.com"><img src="https://img.shields.io/badge/Email-quovein%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://t.me/oiiibar"><img src="https://img.shields.io/badge/Telegram-%40oiiibar-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.linkedin.com/in/aibar-tolegenov-167a962a3/"><img src="https://img.shields.io/badge/LinkedIn-Aibar%20Tolegenov-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://leetcode.com/oiibar"><img src="https://img.shields.io/badge/LeetCode-oiibar-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/u/user3807D/"><img src="https://img.shields.io/badge/LeetCode-oiibar-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
   <a href="CV.pdf"><img src="https://img.shields.io/badge/CV-Download%20PDF-4B0082?style=flat&logo=adobeacrobatreader&logoColor=white" alt="CV" /></a>
 </p>
 
